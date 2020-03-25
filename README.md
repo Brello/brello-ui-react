@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Local Development 
+
+In order to use the Google Login it must come from 'local-brello.azurelynx.com'
+Set this up on hosts to point to your localhost
+
 ## Available Scripts
 
 In the project directory, you can run:
